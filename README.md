@@ -2,7 +2,7 @@
 
 node index.js --action="list"
 
-https://monosnap.com/file/7MKJA17Ye2ELH3zO6CfZaPyMzAgiFj
+https://monosnap.com/file/EXFMIeetsKQgxYWuUOvieN5GEiPtYg
 
 # Отримуємо контакт по id
 
@@ -14,7 +14,7 @@ https://monosnap.com/file/tebtGo2BdKp27qremXmoHB0T0EnkYq
 
 node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
 
-https://monosnap.com/file/SxHe3MhMuBk8sAqekR19ph7v5ZxrNv
+https://monosnap.com/file/jaPg5gYOV78MyZgZMRtDsYVkuWNf4t
 
 # Видаляємо контакт
 
